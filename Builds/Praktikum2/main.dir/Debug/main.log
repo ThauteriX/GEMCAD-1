@@ -1,0 +1,35 @@
+﻿Der Buildvorgang wurde am 06.01.2016 14:31:43 gestartet.
+     1>Projekt "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\main.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\freeglut-2.8.1\include" /I"D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Framework Praktikum 2" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"main.dir\Debug\\" /Fd"main.dir\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Framework Praktikum 2\BezierCurve.cpp" "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Framework Praktikum 2\HalfEdgeDS.cpp" "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Framework Praktikum 2\HalfEdgeDSElements.cpp" "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Framework Praktikum 2\HalfEdgeDSRendering.cpp" "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Framework Praktikum 2\Main.cpp" "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Framework Praktikum 2\Matrix4.cpp"
+         BezierCurve.cpp
+         HalfEdgeDS.cpp
+         HalfEdgeDSElements.cpp
+         HalfEdgeDSRendering.cpp
+         Main.cpp
+         Matrix4.cpp
+         Code wird generiert...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\Debug\main.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "C:\freeglut-2.8.1\lib\x86\freeglut.lib" glu32.lib opengl32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Nicholas/Dokumente/GitHub/GEMCAD-1/Builds/Praktikum2/Debug/main.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Nicholas/Dokumente/GitHub/GEMCAD-1/Builds/Praktikum2/Debug/main.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug main.dir\Debug\BezierCurve.obj
+         main.dir\Debug\HalfEdgeDS.obj
+         main.dir\Debug\HalfEdgeDSElements.obj
+         main.dir\Debug\HalfEdgeDSRendering.obj
+         main.dir\Debug\Main.obj
+         main.dir\Debug\Matrix4.obj
+         main.vcxproj -> D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\Debug\main.exe
+       PostBuildEvent:
+         setlocal
+         D:\Nicholas\Programs\CMake\bin\cmake.exe -E copy C:/freeglut-2.8.1/lib/x86/freeglut.lib/../freeglut.dll D:/Nicholas/Dokumente/GitHub/GEMCAD-1/Builds/Praktikum2/Debug
+         if %errorlevel% neq 0 goto :cmEnd
+         :cmEnd
+         endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+         :cmErrorLevel
+         exit /b %1
+         :cmDone
+         if %errorlevel% neq 0 goto :VCEnd
+         :VCEnd
+     1>Die Erstellung des Projekts "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\main.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:03.44

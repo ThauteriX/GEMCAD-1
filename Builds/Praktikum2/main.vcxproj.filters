@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Framework Praktikum 2\BezierCurve.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Framework Praktikum 2\HalfEdgeDS.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Framework Praktikum 2\HalfEdgeDSElements.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Framework Praktikum 2\HalfEdgeDSRendering.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Framework Praktikum 2\Main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Framework Praktikum 2\Matrix4.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Framework Praktikum 2\BezierCurve.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Framework Praktikum 2\HalfEdgeDS.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Framework Praktikum 2\HalfEdgeDSElements.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Framework Praktikum 2\HalfEdgeDSRendering.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Framework Praktikum 2\Main.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Framework Praktikum 2\Matrix4.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Framework Praktikum 2\Vec3.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Framework Praktikum 2\Vec4.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Framework Praktikum 2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header">
+      <UniqueIdentifier>{8D03C9A9-3653-35DC-924F-04E81BBBE789}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{2EBBB1DB-BAC0-3530-B4B8-977AB692D36A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

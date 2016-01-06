@@ -1,0 +1,336 @@
+The system is: Windows - 10.0.10586 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R)-Buildmodul, Version 4.6.1038.0
+[Microsoft .NET Framework, Version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+
+Der Buildvorgang wurde am 06.01.2016 14:31:04 gestartet.
+Projekt "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\3.4.1\CompilerIdC\CompilerIdC.vcxproj" auf Knoten "1" (Standardziele).
+PrepareForBuild:
+  Das Verzeichnis "Debug\" wird erstellt.
+InitializeBuildStatus:
+  "Debug\CompilerIdC.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\3.4.1\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  Die Datei "Debug\CompilerIdC.unsuccessfulbuild" wird gelîscht.
+  Aktualisieren des Timestamps von "Debug\CompilerIdC.lastbuildstate".
+Die Erstellung von Projekt "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\3.4.1\CompilerIdC\CompilerIdC.vcxproj" ist abgeschlossen (Standardziele).
+
+Der Buildvorgang wurde erfolgreich ausgefÅhrt.
+    0 Warnung(en)
+    0 Fehler
+
+Verstrichene Zeit 00:00:00.31
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "D:/Nicholas/Dokumente/GitHub/GEMCAD-1/Builds/Praktikum2/CMakeFiles/3.4.1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R)-Buildmodul, Version 4.6.1038.0
+[Microsoft .NET Framework, Version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+
+Der Buildvorgang wurde am 06.01.2016 14:31:04 gestartet.
+Projekt "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\3.4.1\CompilerIdCXX\CompilerIdCXX.vcxproj" auf Knoten "1" (Standardziele).
+PrepareForBuild:
+  Das Verzeichnis "Debug\" wird erstellt.
+InitializeBuildStatus:
+  "Debug\CompilerIdCXX.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\3.4.1\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  Die Datei "Debug\CompilerIdCXX.unsuccessfulbuild" wird gelîscht.
+  Aktualisieren des Timestamps von "Debug\CompilerIdCXX.lastbuildstate".
+Die Erstellung von Projekt "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\3.4.1\CompilerIdCXX\CompilerIdCXX.vcxproj" ist abgeschlossen (Standardziele).
+
+Der Buildvorgang wurde erfolgreich ausgefÅhrt.
+    0 Warnung(en)
+    0 Fehler
+
+Verstrichene Zeit 00:00:00.30
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "D:/Nicholas/Dokumente/GitHub/GEMCAD-1/Builds/Praktikum2/CMakeFiles/3.4.1/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/Nicholas/Dokumente/GitHub/GEMCAD-1/Builds/Praktikum2/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_4870d.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=11.0"
+Microsoft (R)-Buildmodul, Version 4.6.1038.0
+[Microsoft .NET Framework, Version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+
+Der Buildvorgang wurde am 06.01.2016 14:31:05 gestartet.
+Projekt "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\cmTC_4870d.vcxproj" auf Knoten "1" (Standardziele).
+PrepareForBuild:
+  Das Verzeichnis "cmTC_4870d.dir\Debug\" wird erstellt.
+  Das Verzeichnis "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\Debug\" wird erstellt.
+InitializeBuildStatus:
+  "cmTC_4870d.dir\Debug\cmTC_4870d.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_4870d.dir\Debug\\" /Fd"cmTC_4870d.dir\Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:queue "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\testCCompiler.c"
+  Microsoft (R) C/C++-Optimierungscompiler Version 17.00.50727.1 fÅr x86
+  Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_4870d.dir\Debug\\" /Fd"cmTC_4870d.dir\Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:queue "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\testCCompiler.c"
+  
+  testCCompiler.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\Debug\cmTC_4870d.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Nicholas/Dokumente/GitHub/GEMCAD-1/Builds/Praktikum2/CMakeFiles/CMakeTmp/Debug/cmTC_4870d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Nicholas/Dokumente/GitHub/GEMCAD-1/Builds/Praktikum2/CMakeFiles/CMakeTmp/Debug/cmTC_4870d.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_4870d.dir\Debug\testCCompiler.obj
+  cmTC_4870d.vcxproj -> D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\Debug\cmTC_4870d.exe
+FinalizeBuildStatus:
+  Die Datei "cmTC_4870d.dir\Debug\cmTC_4870d.unsuccessfulbuild" wird gelîscht.
+  Aktualisieren des Timestamps von "cmTC_4870d.dir\Debug\cmTC_4870d.lastbuildstate".
+Die Erstellung von Projekt "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\cmTC_4870d.vcxproj" ist abgeschlossen (Standardziele).
+
+Der Buildvorgang wurde erfolgreich ausgefÅhrt.
+    0 Warnung(en)
+    0 Fehler
+
+Verstrichene Zeit 00:00:00.36
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/Nicholas/Dokumente/GitHub/GEMCAD-1/Builds/Praktikum2/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_90358.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=11.0"
+Microsoft (R)-Buildmodul, Version 4.6.1038.0
+[Microsoft .NET Framework, Version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+
+Der Buildvorgang wurde am 06.01.2016 14:31:05 gestartet.
+Projekt "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\cmTC_90358.vcxproj" auf Knoten "1" (Standardziele).
+PrepareForBuild:
+  Das Verzeichnis "cmTC_90358.dir\Debug\" wird erstellt.
+  Das Verzeichnis "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\Debug\" wird erstellt.
+InitializeBuildStatus:
+  "cmTC_90358.dir\Debug\cmTC_90358.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_90358.dir\Debug\\" /Fd"cmTC_90358.dir\Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:queue "D:\Nicholas\Programs\CMake\share\cmake-3.4\Modules\CMakeCCompilerABI.c"
+  Microsoft (R) C/C++-Optimierungscompiler Version 17.00.50727.1 fÅr x86
+  Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_90358.dir\Debug\\" /Fd"cmTC_90358.dir\Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:queue "D:\Nicholas\Programs\CMake\share\cmake-3.4\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\Debug\cmTC_90358.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Nicholas/Dokumente/GitHub/GEMCAD-1/Builds/Praktikum2/CMakeFiles/CMakeTmp/Debug/cmTC_90358.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Nicholas/Dokumente/GitHub/GEMCAD-1/Builds/Praktikum2/CMakeFiles/CMakeTmp/Debug/cmTC_90358.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_90358.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_90358.vcxproj -> D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\Debug\cmTC_90358.exe
+FinalizeBuildStatus:
+  Die Datei "cmTC_90358.dir\Debug\cmTC_90358.unsuccessfulbuild" wird gelîscht.
+  Aktualisieren des Timestamps von "cmTC_90358.dir\Debug\cmTC_90358.lastbuildstate".
+Die Erstellung von Projekt "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\cmTC_90358.vcxproj" ist abgeschlossen (Standardziele).
+
+Der Buildvorgang wurde erfolgreich ausgefÅhrt.
+    0 Warnung(en)
+    0 Fehler
+
+Verstrichene Zeit 00:00:00.36
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/Nicholas/Dokumente/GitHub/GEMCAD-1/Builds/Praktikum2/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_1893d.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=11.0"
+Microsoft (R)-Buildmodul, Version 4.6.1038.0
+[Microsoft .NET Framework, Version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+
+Der Buildvorgang wurde am 06.01.2016 14:31:06 gestartet.
+Projekt "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\cmTC_1893d.vcxproj" auf Knoten "1" (Standardziele).
+PrepareForBuild:
+  Das Verzeichnis "cmTC_1893d.dir\Debug\" wird erstellt.
+  Das Verzeichnis "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\Debug\" wird erstellt.
+InitializeBuildStatus:
+  "cmTC_1893d.dir\Debug\cmTC_1893d.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_1893d.dir\Debug\\" /Fd"cmTC_1893d.dir\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:queue "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  Microsoft (R) C/C++-Optimierungscompiler Version 17.00.50727.1 fÅr x86
+  Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_1893d.dir\Debug\\" /Fd"cmTC_1893d.dir\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:queue "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  
+  testCXXCompiler.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\Debug\cmTC_1893d.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Nicholas/Dokumente/GitHub/GEMCAD-1/Builds/Praktikum2/CMakeFiles/CMakeTmp/Debug/cmTC_1893d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Nicholas/Dokumente/GitHub/GEMCAD-1/Builds/Praktikum2/CMakeFiles/CMakeTmp/Debug/cmTC_1893d.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_1893d.dir\Debug\testCXXCompiler.obj
+  cmTC_1893d.vcxproj -> D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\Debug\cmTC_1893d.exe
+FinalizeBuildStatus:
+  Die Datei "cmTC_1893d.dir\Debug\cmTC_1893d.unsuccessfulbuild" wird gelîscht.
+  Aktualisieren des Timestamps von "cmTC_1893d.dir\Debug\cmTC_1893d.lastbuildstate".
+Die Erstellung von Projekt "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\cmTC_1893d.vcxproj" ist abgeschlossen (Standardziele).
+
+Der Buildvorgang wurde erfolgreich ausgefÅhrt.
+    0 Warnung(en)
+    0 Fehler
+
+Verstrichene Zeit 00:00:00.39
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/Nicholas/Dokumente/GitHub/GEMCAD-1/Builds/Praktikum2/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_b1f9f.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=11.0"
+Microsoft (R)-Buildmodul, Version 4.6.1038.0
+[Microsoft .NET Framework, Version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+
+Der Buildvorgang wurde am 06.01.2016 14:31:06 gestartet.
+Projekt "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\cmTC_b1f9f.vcxproj" auf Knoten "1" (Standardziele).
+PrepareForBuild:
+  Das Verzeichnis "cmTC_b1f9f.dir\Debug\" wird erstellt.
+  Das Verzeichnis "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\Debug\" wird erstellt.
+InitializeBuildStatus:
+  "cmTC_b1f9f.dir\Debug\cmTC_b1f9f.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_b1f9f.dir\Debug\\" /Fd"cmTC_b1f9f.dir\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:queue "D:\Nicholas\Programs\CMake\share\cmake-3.4\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft (R) C/C++-Optimierungscompiler Version 17.00.50727.1 fÅr x86
+  Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_b1f9f.dir\Debug\\" /Fd"cmTC_b1f9f.dir\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:queue "D:\Nicholas\Programs\CMake\share\cmake-3.4\Modules\CMakeCXXCompilerABI.cpp"
+  CMakeCXXCompilerABI.cpp
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\Debug\cmTC_b1f9f.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Nicholas/Dokumente/GitHub/GEMCAD-1/Builds/Praktikum2/CMakeFiles/CMakeTmp/Debug/cmTC_b1f9f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Nicholas/Dokumente/GitHub/GEMCAD-1/Builds/Praktikum2/CMakeFiles/CMakeTmp/Debug/cmTC_b1f9f.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_b1f9f.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_b1f9f.vcxproj -> D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\Debug\cmTC_b1f9f.exe
+FinalizeBuildStatus:
+  Die Datei "cmTC_b1f9f.dir\Debug\cmTC_b1f9f.unsuccessfulbuild" wird gelîscht.
+  Aktualisieren des Timestamps von "cmTC_b1f9f.dir\Debug\cmTC_b1f9f.lastbuildstate".
+Die Erstellung von Projekt "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\cmTC_b1f9f.vcxproj" ist abgeschlossen (Standardziele).
+
+Der Buildvorgang wurde erfolgreich ausgefÅhrt.
+    0 Warnung(en)
+    0 Fehler
+
+Verstrichene Zeit 00:00:00.36
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: D:/Nicholas/Dokumente/GitHub/GEMCAD-1/Builds/Praktikum2/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_f3865.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=11.0"
+Microsoft (R)-Buildmodul, Version 4.6.1038.0
+[Microsoft .NET Framework, Version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+
+Der Buildvorgang wurde am 06.01.2016 14:31:07 gestartet.
+Projekt "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\cmTC_f3865.vcxproj" auf Knoten "1" (Standardziele).
+PrepareForBuild:
+  Das Verzeichnis "cmTC_f3865.dir\Debug\" wird erstellt.
+  Das Verzeichnis "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\Debug\" wird erstellt.
+InitializeBuildStatus:
+  "cmTC_f3865.dir\Debug\cmTC_f3865.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_f3865.dir\Debug\\" /Fd"cmTC_f3865.dir\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:queue "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\feature_tests.cxx"
+  Microsoft (R) C/C++-Optimierungscompiler Version 17.00.50727.1 fÅr x86
+  Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_f3865.dir\Debug\\" /Fd"cmTC_f3865.dir\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:queue "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\feature_tests.cxx"
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\Debug\cmTC_f3865.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Nicholas/Dokumente/GitHub/GEMCAD-1/Builds/Praktikum2/CMakeFiles/CMakeTmp/Debug/cmTC_f3865.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Nicholas/Dokumente/GitHub/GEMCAD-1/Builds/Praktikum2/CMakeFiles/CMakeTmp/Debug/cmTC_f3865.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_f3865.dir\Debug\feature_tests.obj
+  cmTC_f3865.vcxproj -> D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\Debug\cmTC_f3865.exe
+FinalizeBuildStatus:
+  Die Datei "cmTC_f3865.dir\Debug\cmTC_f3865.unsuccessfulbuild" wird gelîscht.
+  Aktualisieren des Timestamps von "cmTC_f3865.dir\Debug\cmTC_f3865.lastbuildstate".
+Die Erstellung von Projekt "D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\CMakeTmp\cmTC_f3865.vcxproj" ist abgeschlossen (Standardziele).
+
+Der Buildvorgang wurde erfolgreich ausgefÅhrt.
+    0 Warnung(en)
+    0 Fehler
+
+Verstrichene Zeit 00:00:00.38
+
+
+    Feature record: CXX_FEATURE:0cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:0cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:0cxx_default_function_template_args
+    Feature record: CXX_FEATURE:0cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:0cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:0cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:0cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:0cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:0cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:0cxx_variadic_templates
