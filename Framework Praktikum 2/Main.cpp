@@ -267,11 +267,38 @@ void keyPressed(unsigned char key, int x, int y)
 		glutPostRedisplay();	// use this whenever 3d data changed to redraw the scene
 		break;		
 
+	case 'y':
+	case 'Y':
+		heDS.rotateAllVerticesY(10.0f * M_DegToRad);		
+		glutPostRedisplay();	// use this whenever 3d data changed to redraw the scene
+		break;		
+
+	case 'z':
+	case 'Z':
+		heDS.rotateAllVerticesY(10.0f * M_DegToRad);		
+		glutPostRedisplay();	// use this whenever 3d data changed to redraw the scene
+		break;		
+			
+	case 'm' :
+		Matrix4f::test_Multiplikation();
+		break;		
 		// =========================================
 
-	default:
+	case 'q' :
+		Matrix4f::test_vecMult();
+		break;		
+		// =========================================
+
+
+
+		default:
 		std::cout << int(key) << " not bound!" << std::endl;
 		break;
+
+		// =========================================
+
+	
+
 	}
 }
 
@@ -338,6 +365,8 @@ void coutHelp()
 	std::cout << ",: decrease the evaluation parameter" << std::endl;
 	std::cout << "====== TRANSFORMATIONS ====" << std::endl;
 	std::cout << "X: rotation of the complete object around x axis" << std::endl;
+	std::cout << "Y: rotation of the complete object around y axis" << std::endl;
+	std::cout << "Z: rotation of the complete object around z axis" << std::endl;
 	std::cout << "==========================" << std::endl;
 	std::cout << std::endl;
 }
