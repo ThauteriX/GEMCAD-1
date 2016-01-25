@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Nicholas\Dokumente\GitHub\GEMCAD-1\Builds\Praktikum2\CMakeFiles\b0595fc68da978895026c0bb8228d5a7\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A702A54E-529D-37E1-85E7-93B807C991D4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

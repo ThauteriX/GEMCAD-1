@@ -1,0 +1,3 @@
+D:/Nicholas/Dokumente/GitHub/GEMCAD-1/Builds/Praktikum2/CMakeFiles/main.dir
+D:/Nicholas/Dokumente/GitHub/GEMCAD-1/Builds/Praktikum2/CMakeFiles/ALL_BUILD.dir
+D:/Nicholas/Dokumente/GitHub/GEMCAD-1/Builds/Praktikum2/CMakeFiles/ZERO_CHECK.dir
